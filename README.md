@@ -10,6 +10,7 @@
 <li>    CRUD
 <li>    flash messgaes    
 <li>    сортировка окно по дате создания
+<li>    подлкючение postgreSQL
 </ul>
 
 
